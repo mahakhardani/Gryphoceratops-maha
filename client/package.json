@@ -5,7 +5,7 @@
   "scripts": {
     "build": "next build",
     "export": "next export",
-    "dev": "SERVER_API_ENDPOINT=http://localhost:8080 next dev",
+    "dev": "SERVER_API_ENDPOINT=https://mahakhardani.github.io/Gryphoceratops-maha/ next dev",
     "lint": "eslint --ext .tsx,.ts --fix src/",
     "start": "next start",
     "test": "cypress open",
